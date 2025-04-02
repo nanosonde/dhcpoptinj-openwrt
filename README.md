@@ -1,1 +1,1 @@
-# dhcpoptinj-openwrt
+# OpenWrt package feed for dhcpoptinj
